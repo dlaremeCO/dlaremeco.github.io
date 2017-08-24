@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<head>
+  <title>D'lareme Coding</title>
+</head>
+<body>
+    <h1>D'lareme Coding</h1>
+    <p>Hello, welcome to D'lareme Coding! We are a non-profit organization that creates your codes free!</p>
+    <p>Projects we currently offer:</p>
+    <ul>
+       <li>Websites</li>
+       <li>Blogs</li>
+    </ul>
+    <p>Projects we may offer soon:</p>
+    <ul>
+       <li>Apps</li>
+       <li>Games</li>
+    </ul>
+    <p>If you need a website, blog theme, or just a few written lines of HTML5, contact us at our business email address: dlaremeco@gmail.com or if it is urgent, contact me (Katy D'lareme) at my personal email: katyolympian@gmail.com.</p>
+</body>
